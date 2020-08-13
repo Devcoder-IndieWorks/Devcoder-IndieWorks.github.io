@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+생각하는 바보 by Devcoder
